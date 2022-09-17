@@ -26,10 +26,4 @@
     border-radius: 12px;
 }
 
-@media (max-width: 550px) {
-    .viewExpenses-button {
-        font-size: .75rem;
-        padding: 0.5rem .75rem;
-    }
-
-}
+@media (max-width: 550px) {}
